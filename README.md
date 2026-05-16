@@ -166,4 +166,4 @@ Scan2Hire(kaizenjobportal)/
 ##  Deployment
 
 - **Frontend** deployed on **Vercel**: [https://v0-kaizen-job-portal.vercel.app/](https://v0-kaizen-job-portal.vercel.app/)
-- **GitHub Repository**: [https://github.com/Raghuram1784/Scan2Hire](https://github.com/Raghuram1784/Scan2Hire)
+- **GitHub Repository**: [https://github.com/kmithileshhhhh05/OnlineJobPortal](https://github.com/kmithileshhhhh05/OnlineJobPortal)
