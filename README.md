@@ -42,7 +42,7 @@ It’s a **QR-powered platform** that instantly connects **students** and **comp
 - PNPM or NPM
 
 ### 2) Clone & Install
-git clone https://github.com/Raghuram1784/Scan2Hire
+git clone https://github.com/kmithileshhhhh05/OnlineJobPortal
 
 cd Scan2Hire
 pnpm install         # or: npm install
