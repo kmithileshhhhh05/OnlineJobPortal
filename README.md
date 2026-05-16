@@ -1,7 +1,7 @@
 # Scan2Hire (Kaizen Job Portal)
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-brightgreen)](https://v0-kaizen-job-portal.vercel.app/)
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/Raghuram1784/Scan2Hire)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/kmithileshhhhh05/OnlineJobPortal)
 
 **Scan2Hire** is the **Kaizen Job Portal** project built for **August Fest 2025**.  
 It’s a **QR-powered platform** that instantly connects **students** and **companies**:
